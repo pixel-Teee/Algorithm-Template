@@ -1,3 +1,6 @@
+/*
+时间复杂度O(nlogn)
+*/
 #include <iostream>
 #include <cstdio>
 #include <cstring>

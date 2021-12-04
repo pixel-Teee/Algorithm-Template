@@ -1,3 +1,6 @@
+/*
+第k个算法，这个算法，找到第k个数后，并不能将原先的数组排好序
+*/
 #include <iostream>
 #include <cstdio>
 #include <cstring>
